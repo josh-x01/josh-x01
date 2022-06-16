@@ -2,8 +2,6 @@
 
 - 🌱 Currently learning Software Engineering by <a href="https://www.alxafrica.com/">ALX<a/>
 - 🏫 Currently learning Computer Science and Engineering (CSE) by <a href="https://www.astu.edu.et/">ASTU<a/>
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Any thing
 - 😄 Pronouns: ... He/Him
 - 📫 How to reach me:
