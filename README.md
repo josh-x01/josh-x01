@@ -7,3 +7,6 @@
 - 📫 How to reach me: ... eyasuyid@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have completed 60% of my learning process.
+
+
+https://photos.app.goo.gl/ZXb6fkxMmRFQ2mbu7
