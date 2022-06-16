@@ -5,19 +5,18 @@
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Any thing
-- 📫 How to reach me:     
-  
+- 📫 How to reach me:
   <a href="https://www.linkedin.com/in/eyasu-asres-63640b235/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
  <a href="https://www.instagram.com/josh0598j">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
-[![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)]("").
   
-  techmanx01@gmail.com
+[![channel icon](https://patrolavia.github.io/telegram-badge/follow.png)]("")
+techmanx01@gmail.com
+  
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I have completed 60% of my learning process.
   
