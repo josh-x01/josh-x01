@@ -1,7 +1,7 @@
 ### Hello Stranger👋
 
 - 🌱 Currently learning Software Engineering by <a href="https://www.alxafrica.com/">ALX<a/>
-- 🏫 Currently learning Computer Science and Engineering (CSE) by <a href="https://www.astu.edu.et/">ASTU<a/>
+- 🏫 Currently learning Computer Science and Engineering (CSE) at <a href="https://www.astu.edu.et/">ASTU<a/>
 - 💬 Ask me about ... Any thing
 - 😄 Pronouns: ... He/Him
 - 📫 How to reach me:
