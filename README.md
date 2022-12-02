@@ -2,6 +2,7 @@
 
 - 🌱 Currently learning Software Engineering by <a href="https://www.alxafrica.com/">ALX<a/>
 - 🏫 Currently learning Computer Science and Engineering (CSE) at <a href="https://www.astu.edu.et/">ASTU<a/>
+- ⭐ I am a UX Designer
 - 💬 Ask me about ... Any thing
 - 😄 Pronouns: ... He/Him
 - 📫 How to reach me:
