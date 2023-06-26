@@ -7,7 +7,7 @@
 - 😄 Pronouns: ... He/Him
 - 📫 How to reach me:
   
- <a href="https://www.linkedin.com/in/eyasu-asres-63640b235/">
+ <a href="https://www.linkedin.com/in/joshx01/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  <a href="https://www.instagram.com/josh0598j">
@@ -60,4 +60,4 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=5461d1&vCenter=true&width=600&lines=It+is+just+the+beginning!)
   
 
-  <img src ="https://github-readme-stats.vercel.app/api?username=eyasuyid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img src ="https://github-readme-stats.vercel.app/api?username=josh-x01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
