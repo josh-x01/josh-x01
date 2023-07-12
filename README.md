@@ -1,9 +1,8 @@
 ### Hello Stranger👋
 
-- 🌱 Currently learning Software Engineering by <a href="https://www.alxafrica.com/">ALX<a/>
+- 🌱 I am certified Software Engineering by <a href="https://www.alxafrica.com/">ALX<a/>
 - 🏫 Currently learning Computer Science and Engineering (CSE) at <a href="https://www.astu.edu.et/">ASTU<a/>
-- ⭐ I am a UX Designer
-- 💬 Ask me about ... Any thing
+- 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 - 📫 How to reach me:
   
